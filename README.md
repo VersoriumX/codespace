@@ -1,3 +1,13 @@
+# VersoriumX
+
+## Introduction
+This project uses [ethers.js](https://github.com/ethers-io/ethers.js/), a complete and compact library for interacting with the Ethereum blockchain and its ecosystem.
+
+## Installation
+To install ethers.js, you can use npm:
+
+```bash
+npm install ethers
 
 # Haikus for Codespaces
 
